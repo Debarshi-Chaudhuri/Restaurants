@@ -8,10 +8,10 @@
 import React from 'react';
 import Form from './src3/Form';
 
-
+import MainRoute from "./src4/routes/index";
 const App = () => {
   return (
-    <Form/>
+    <MainRoute/>
   );
 };
 
